@@ -1,2 +1,5 @@
 
-print("Hello from KenzGlobe")
+def func():
+    return "Code is working."
+    
+print(func())
